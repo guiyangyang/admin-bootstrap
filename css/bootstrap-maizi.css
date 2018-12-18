@@ -1,0 +1,77 @@
+body{
+    font-family:'Microsoft Yahei',sans-serif;
+
+}
+.mai-icon{
+    background: rgb(64,210,177);
+    color: #fff;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+
+/*导航*/
+
+
+/*进度条下边距*/
+.progress{
+    margin-bottom: 15px;
+}
+/*留言板头像*/
+.wh64{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+/*边距*/
+.mar_t15 {
+    margin-top: 15px;
+}
+/*padding/*/
+.pad0{
+    padding: 0;
+}
+
+/*全局置顶*/
+.checkbox {
+    padding-left: 20px;
+}
+/*page-header*/
+
+.page-header h1{
+    margin: 0;
+    font-size: 16px;
+}
+
+.user_search_form {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-top: none;
+}
+/*tag*/
+.taglist{
+    padding-top: 15px;
+}
+.taglist .alert{
+    margin: 0 10px 10px 0;
+}
+
+/*footer*/
+#footer{
+    text-align: center;
+    font-weight: 400;
+    padding: 20px;
+}
+/*footer结束*/
+
+
+
+
+
+
+
+
+
